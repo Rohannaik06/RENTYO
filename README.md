@@ -20,4 +20,4 @@ HTML, CSS, JavaScript
 [Add any frameworks/libraries you used – e.g., Bootstrap, React, Node.js, etc.]
 
 🚀 Live Preview
-👉 https://rohannaik06.github.io/RENTYO/
+👉 https://rohannaik06.github.io/rentyo/
